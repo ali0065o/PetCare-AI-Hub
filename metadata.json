@@ -1,0 +1,6 @@
+{
+  "name": "PetCare AI & Hub",
+  "description": "Comprehensive Pet Care and AI Veterinary platform with multimodal symptom checker, pet encyclopedia, dietary and toxicity guides, equipment shop, and pet health tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
